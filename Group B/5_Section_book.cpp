@@ -1,5 +1,11 @@
-/*A book consists of chapters, chapters consist of sections and sections consist of subsections.
-Construct a tree and print the nodes. Find the time and space requirements of your method.*/
+/*
+SPPU Computer Engineering DSA Lab 
+Group B
+Experiment Sr. No. - 5
+
+A book consists of chapters, chapters consist of sections and sections consist of subsections.
+Construct a tree and print the nodes. Find the time and space requirements of your method.
+*/
 
 #include <iostream>
 #include <string>

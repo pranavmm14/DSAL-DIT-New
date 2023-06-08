@@ -1,4 +1,8 @@
 /*
+SPPU Computer Engineering DSA Lab 
+Group B
+Experiment Sr. No. - 6
+
 Beginning with an empty binary search tree, Construct binary searchtree by inserting the values
 in the order given. After constructing a binary tree –
 i. Insert new node

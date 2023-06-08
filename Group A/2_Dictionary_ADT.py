@@ -1,3 +1,13 @@
+"""
+SPPU Computer Engineering DSA Lab 
+Group A - 2
+
+Implement all the functions of a dictionary (ADT) using hashing and handle collisions
+using chaining with/without replacement. 
+Data: Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, 
+Keys must be unique. Standard Operations: Insert(key, value), Find(key), Delete(key).
+"""
+
 class Dictionary:
 
     def __init__(self, capacity):
@@ -31,6 +41,8 @@ dictionary = Dictionary(10)
 
 dictionary.insert("1", "red")
 dictionary.insert("2", "yellow")
+dictionary.insert("3", "green")
+dictionary.insert("4", "blue")
 
 print(dictionary.find("2"))
 

@@ -1,3 +1,11 @@
+/*
+SPPU Computer Engineering DSA Lab 
+Group E
+Experiment Sr. No. - 21
+
+Implement the Heap/Shell sort algorithm implemented in Java demonstrating 
+heap/shell data structure with modularity of programming language
+*/
 import java.util.Arrays;
 
 public class Sorting {
